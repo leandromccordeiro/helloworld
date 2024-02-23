@@ -10,4 +10,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "Olá, " . $nome . "! Seja bem-vindo(a).";
     }
 }
+echo "não entrou no if";
 ?>
