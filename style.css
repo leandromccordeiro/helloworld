@@ -58,3 +58,21 @@ button:hover {
     background: #222;
     color: #ddd;
 }
+
+/* Estilos para o acordeão */
+.accordion {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.accordion-header {
+    background-color: #f1f1f1;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.accordion-body {
+    display: none;
+    padding: 10px;
+}
